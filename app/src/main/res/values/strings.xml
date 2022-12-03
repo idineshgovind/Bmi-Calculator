@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="check_bmi">Check Your BMI</string>
+    <string name="height_enter">Enter Height(Cms)</string>
+    <string name="weight_enter">Enter Weight(Kgs)</string>
+    <string name="button_check">Calculate BMI</string>
+    <string name="input_enter">Enter the input below!</string>
+    <string name="result_bmi">Your Result!</string>
+    <string name="button_again">Calculate Again</string>
+    <string name="share_button">Share Your Results!</string>
+    <string name="suggested_bmi">Suggested BMI range 18.5~24.0 kg/m2</string>
+</resources>
